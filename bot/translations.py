@@ -1,13 +1,13 @@
 class Messages:
 
     START_MSG = (
-        "**__Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtubeonce you authorise me.__** "
+        "**__Hi there {}.\n\nI'ارفع فيديوهات من هنا لليوويتوب..__** "
         "**__once you authorise me.You can know more from /help.\nThank you for using Meh 😁**__"
         "\n\n**__HOW TO USE ME:-\n Watch On YouTube: [Click Here](https://youtu.be/dLCXse6HlaE)__**"
         "\n **__Watch On Google Drive: [Click Here.](https://drive.google.com/file/d/12qp4VcvBOVwhMIx0O5CtO5VvUbCDeFKs/view)__**"
         "\n\n**__You can know more from /help.__**"
         "\n**__Or use /login to get started.__**"
-        "\n\n**__Join @HXBots for More Bots...__**"
+        "\n\n**__Join @Maathasad1999 for More Bots...__**"
     )
 
     HELP_MSG = [
