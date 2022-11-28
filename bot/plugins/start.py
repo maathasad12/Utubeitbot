@@ -20,14 +20,14 @@ async def _start(c: UtubeBot, m: Message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([
                   [
-                      InlineKeyboardButton("How To Use Me🙄", callback_data="/help")
+                      InlineKeyboardButton("شلون تستخدمني ولا اصير حيوان", callback_data="/help")
                   ],
                   [
-                      InlineKeyboardButton("Project Channel!", url="https://t.me/hxbots"),
-                      InlineKeyboardButton("Support Group", url="https://t.me/HxSupport")
+                      InlineKeyboardButton("قناة مالني اشتراك بيه لا ب44 على راسك!", url="https://t.me/Maathasad1999"),
+                      InlineKeyboardButton("كروب الدعم", url="https://t.me/Maathali92")
                   ],
                   [  
-                      InlineKeyboardButton("Buy Me A Tea", url="https://upayme.vercel.app/kkirodewal@ybl")
+                      InlineKeyboardButton("دعم نفسي", url="https://www.youtube.com/channel/UCp3AqHeAy-n4_utbsw15yhQ")
                   ]]
         ),
     )
